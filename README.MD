@@ -1,1 +1,2 @@
-Essa é uma página simples com o uso apenas de HTML e CSS, é uma pequena animação de chuva em uma cidade de Tokyo.
+Essa é uma página simples feita somente com HTML e CSS, trata-se uma pequena animação de chuva em uma cidade de Tokyo.
+Espero que goste :)
